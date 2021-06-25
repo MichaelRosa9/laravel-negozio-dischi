@@ -11,13 +11,11 @@
                 <a class="nav-link active" aria-current="page" href="{{route('home')}}">Home</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="#">Store</a>
+                <a class="nav-link" href="{{route('store')}}">Store</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="{{route('contacts')}}">Contacts</a>
               </li>
-            
-           
             </ul>
            
           </div>
